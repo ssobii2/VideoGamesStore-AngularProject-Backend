@@ -9,6 +9,8 @@ app.use(express.json());
 app.use(cors());
 app.use('/api', productRouter);
 
-app.listen(4300, () => {
+var port = process.env.PORT || 4300;
+
+app.listen(port, () => {
     console.log("Express JS started successfully.");
 });

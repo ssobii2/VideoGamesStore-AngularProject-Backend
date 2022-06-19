@@ -4,7 +4,8 @@
   "description": "bruh",
   "main": "index.js",
   "scripts": {
-    "test": "npm install"
+    "test": "npm install",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
