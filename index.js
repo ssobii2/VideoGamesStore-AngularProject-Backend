@@ -1,5 +1,6 @@
 // Create an Express JS instance
 const express = require('express');
+// using cors to stop the error
 const cors = require('cors');
 const productRouter = require('./routes/product.route');
 
