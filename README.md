@@ -1,2 +1,3 @@
 ## Hosted Public Link
-https://dry-reef-18710.herokuapp.com/api/products
+https://videogamesstore-backend.onrender.com/api/products
+https://daffy-locrian-typhoon.glitch.me/api/products
